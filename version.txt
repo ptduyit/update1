@@ -1,7 +1,8 @@
 {
   "latest": "0.0.5",
   "versions": {
-    "0.0.2": "https://raw.githubusercontent.com/ptduyit/update1/refs/heads/main/0.0.2.zip",
+    "0.0.3": "https://raw.githubusercontent.com/ptduyit/update1/refs/heads/main/0.0.3.zip",
+    "0.0.4": "https://raw.githubusercontent.com/ptduyit/update1/refs/heads/main/0.0.4.zip"
     "0.0.5": "https://raw.githubusercontent.com/ptduyit/update1/refs/heads/main/0.0.5.zip"
   }
 }
